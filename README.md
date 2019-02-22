@@ -1,5 +1,5 @@
 # Python mouce tracker
-this is my python mouse tracker
+This is my python mouse tracker
 
 # libs
   1) win32gui
